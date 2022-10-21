@@ -10,6 +10,7 @@ Ecris un programme qui :
 	(où … est le nom du chien et … utilise la méthode aboie du chien pour le faire aboyer)
 */
 
+
   
   
 
